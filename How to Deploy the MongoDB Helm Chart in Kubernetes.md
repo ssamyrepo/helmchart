@@ -193,13 +193,6 @@ Inside the MongoDB shell, initialize the replica set:
 rs.status()
 ```
 
----
 
-## **Summary: Features of this Helm Chart**
-✅ **MongoDB Replica Set with 3 Nodes**  
-✅ **Persistent Storage (PVC) using StatefulSet**  
-✅ **Auto-scaling & high availability**  
-✅ **Kubernetes Secret for secure credentials**  
-✅ **Replica Set Configuration with ConfigMap**
 
 Would you like a **custom script** for **automated deployment** of MongoDB using Helm on AWS EKS? 🚀
