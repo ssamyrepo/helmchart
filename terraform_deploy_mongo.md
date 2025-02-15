@@ -1,7 +1,3 @@
-Here is a **Terraform script** to provision the **AWS infrastructure** required for **deploying MongoDB on an EKS cluster**. After this, you can run the **Ansible Playbook** to deploy MongoDB.
-
----
-
 ## **Step 1: Install Terraform**
 Ensure **Terraform** is installed:
 ```sh
