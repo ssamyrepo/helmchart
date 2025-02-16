@@ -219,6 +219,4 @@ kubectl get svc --namespace default -w
 - **Use `helm upgrade` to modify an app** 🔄  
 - **Store configs in `values.yaml` for customization** 🛠  
 
----
 
-🚀 **Now You’re a Helm Pro!** 🎉 Go ahead and deploy apps easily with Helm in Kubernetes. 🐳💡 Let me know if you have any questions! 🎯
